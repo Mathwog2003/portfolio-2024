@@ -97,7 +97,7 @@ body{
   display: block;
 }
 .header ul li a.active{
-  color: rgb(255, 255, 255);
+  color: rgb(43, 243, 163);
 } 
 .header ul li a:hover{
   color:#fcfcfc;
@@ -563,19 +563,19 @@ profile-photo .img{
     .skill-title {
       font-size: 18px;
       font-weight: bold;
-      color: rgb(43, 243, 163);
+      color: rgb(255, 255, 255);
     }
 
     .skill-bar {
       height: 20px;
-      background-color: #40dcfe;
+      background-color: #ffffff;
       border-radius: 5px;
       overflow: hidden;
     }
 
     .skill-progress {
       height: 100%;
-      background-color: #ffffff;
+      background-color: #2cc6f9;
       border-radius: 5px;
     }
 
